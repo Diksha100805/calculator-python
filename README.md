@@ -22,7 +22,3 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 4. Run the following command:
 
 python calculator.py
-
-## 👩‍💻 Author
-Diksha  
-CodSoft Internship
